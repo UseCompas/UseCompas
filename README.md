@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @UseCompas
+- 👋 Excuse bra
 - 👀 I’m interested in make games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on PornHub
-- 📫 How to reach me No way
+- 🌱 im not ur bra
+- 📫 
 
 <!---
 UseCompas/UseCompas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

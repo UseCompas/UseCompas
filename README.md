@@ -1,6 +1,6 @@
-- 👋 Excuse bra
-- 👀 I’m interested in make games
-- 🌱 im not ur bra
+- 👋 Hello my name is 
+- 👀 I’m interested in make games 
+- 🌱 
 - 📫 
 
 <!---

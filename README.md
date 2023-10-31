@@ -1,4 +1,4 @@
-- 👋 Hello my name is 
+- 👋 Hello my name is Ivan Kalashnikov
 - 👀 I’m interested in make games 
 - 🌱 
 - 📫 
